@@ -1,4 +1,6 @@
-## Hi there 👋
+# Sobre o projeto
+
+Este é um projeto desenvolvido na disciplina Sistemas Multimídia do curso de Engenharia de Telecomunicações do Instituto Federal de Santa Catarina (IFSC) campus São José.
 
 <!--
 
